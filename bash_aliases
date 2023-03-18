@@ -1,0 +1,10 @@
+#Git command aliases
+alias ad="git add"
+alias cm="git commit -m"
+alias ch="git checkout"
+alias gs="git status"
+alias pu="git push"
+alias pur="git push --upstream"
+alias fetch="git fetch"
+alais br="git branch"
+alias pul="git pull"
